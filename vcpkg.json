@@ -1,0 +1,6 @@
+{
+	"$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+	"name": "test",
+	"version-semver": "0.1.0",
+	"builtin-baseline": "fa6e6a6ec3224f1d3697d544edef6272a59cd834"
+}
